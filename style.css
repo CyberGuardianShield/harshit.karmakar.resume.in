@@ -2,6 +2,7 @@ body{
     background-color: whitesmoke;
     color:black;
     font-family: Merriweather, serif;
+    user-select: none;
 }
 
 .photo{
